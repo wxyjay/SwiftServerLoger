@@ -42,7 +42,7 @@ dependencies: [
 .target(
     name: "YourAppTarget",
     dependencies: [
-        .product(name: "SwiftServerLoger", package: "SwiftServerLoger") // Assuming product name is ServerLogger
+        .product(name: "SwiftServerLoger", package: "SwiftServerLoger") 
     ]
 )
 ```
